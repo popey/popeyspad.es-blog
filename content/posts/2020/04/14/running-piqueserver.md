@@ -1,7 +1,7 @@
 +++
 date = "2020-04-14T11:00:00-00:00"
 title = "Running Piqueserver"
-slug = "2020/04/14/running-piqueserver"
+slug = "running-piqueserver"
 author = "Alan Pope"
 +++
 

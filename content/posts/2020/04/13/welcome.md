@@ -1,7 +1,7 @@
 +++
 date = "2020-04-13T11:00:00-00:00"
 title = "Welcome"
-slug = "2020/04/13/welcome"
+slug = "welcome"
 author = "Alan Pope"
 +++
 

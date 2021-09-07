@@ -1,7 +1,7 @@
 +++
 date = "2020-04-17T11:00:00-00:00"
 title = "Stress Testing"
-slug = "2020/04/17/stress-testing"
+slug = "stress-testing"
 author = "Alan Pope"
 +++
 
