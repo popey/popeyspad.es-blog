@@ -20,9 +20,9 @@ enableGitInfo = true
 
 [Menus]
   main = [
-      {Name = "Posts", URL = "/posts/"}
-      {Name = "About", URL = "/about/"}
-      {Name = "Contact", URL = "/contact/"}
-      {Name = "Discord", URL = "/discord/"}
-      {Name = "Github", URL = "https://github.com/popey/popeyspad.es-blog"},
+      {Name = "Posts", URL = "/posts/"},
+      {Name = "About", URL = "/about/"},
+      {Name = "Contact", URL = "/contact/"},
+      {Name = "Discord", URL = "/discord/"},
+      {Name = "Github", URL = "https://github.com/popey/popeyspad.es-blog"}
   ]
