@@ -1,0 +1,4 @@
+baseURL = 'https://popeyspad.es/'
+languageCode = 'en-us'
+title = 'popey spades'
+theme = 'hyde'
