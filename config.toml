@@ -1,4 +1,28 @@
 baseURL = 'https://popeyspad.es/'
-languageCode = 'en-us'
+languageCode = "en-gb"
 title = 'popey spades'
 theme = 'hyde'
+enableGitInfo = true
+[Params]
+    mainSections = ["post"]
+    intro = true
+    themeColor = "theme-base-08"
+    headline = "Alan Pope's blog"
+    github = "https://github.com/popey/popeyspad.es-blog"
+    twitter = "https://twitter.com/popey"
+    email = "alan@popey.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+    #style = "dark"
+    commit = "https://github.com/popey/popeyspad.es-blog/tree/"
+    description = "A blog dedicated to my little AoS / OpenSpades / Piqueserver."
+
+[Menus]
+  main = [
+      {Name = "Posts", URL = "/posts/"}
+      {Name = "About", URL = "/about/"}
+      {Name = "Contact", URL = "/contact/"}
+      {Name = "Discord", URL = "/discord/"}
+      {Name = "Github", URL = "https://github.com/popey/popeyspad.es-blog"},
+  ]
