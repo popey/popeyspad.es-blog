@@ -28,4 +28,4 @@ So was born my popey spades server. A place where I can play, and invite others 
 Support
 =======
 
-Support the costs associated with running this site and the popeyspades server via [ko-fi](http://ko-fi.com/popeydc) or [paypal](https://www.paypal.me/popey/5). Alternatively sign up for a droplet using this link for [Digial Ocean](https://m.do.co/c/f9f96ea43bd3) and maybe run your own server! :)
+Support the costs associated with running this site and the popeyspades server via [ko-fi](http://ko-fi.com/popeydc) or [paypal](https://www.paypal.me/popey/5). Alternatively sign up for [Linode](https://www.linode.com/?r=49a71a9eddc09fbca846964312f36841f25e52a8) or [Digial Ocean](https://m.do.co/c/f9f96ea43bd3) and maybe run your own server! :)
