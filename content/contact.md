@@ -9,4 +9,4 @@ Get in touch
 
 The [popey spades discord](https://discord.gg/v9ZZ22D) is the best place to keep in touch while we play.
 
-You can also contact me via IRC - (I’m popey in #popeyspades on freenode), [Twitter](https://twitter.com/popey) and [Telegram](https://t.me/popeydc).
+You can also contact me via IRC - (I’m popey in `#popeyspades` on [libera.chat](https://libera.chat)), [Twitter](https://twitter.com/popey) and [Telegram](https://t.me/popeydc).
